@@ -17,7 +17,6 @@ function div(){
     var c = (d1.value*1) / (d2.value*1);
     output.innerHTML = c ;
 }
-// PUSH
 
 
  
